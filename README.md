@@ -1,8 +1,8 @@
 # END2_Assignment5
 ### Before anything else, a note on file names
 **5_1** series of note books are on original data (no augmentation), 5_1b series on original data bidirectional model. <br/>
-**5_2** series was suppposed to be with augmented data. But looking at the results from the previous models, I decided to go only with LSTM bidirectional. <br/>
-So, **5_2b_finalb** is the only one (with augmented data) in 5_2 series.<br/>
+**5_2** series was suppposed to be with augmented data. But looking at the results from the previous models, I decided to go with LSTM bidirectional and GRU birectional. <br/>
+So, **5_2b_finalb** are the only two (with augmented data) in 5_2 series.<br/>
 **dataset_gen** is the notebook which collects the SST data, augments it, and stores it by pickling <br/>
 **trainset_new.pkl, testset.pkl, valset.pkl** are the files which are used in 5_2 series. <br/>
 **test_sent.pkl** is the file which has the test set of sentences out of which 10 are randomly chosen to get the sentiments.
