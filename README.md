@@ -62,5 +62,5 @@ Well so far from my side in this assignment.
 Ritambhra Korpal<br/>
 Chaitanya Vanapamala <br/>
 Pralay Ramteke <br/>
-Palavai <br/>
+Pallavi <br/>
 
